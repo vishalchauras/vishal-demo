@@ -1,4 +1,4 @@
 # vishal-demo
 This is my first Git Repository.
 <br>
- Author - Vishal Chaurasiya
+ Author - Vishal (Chaurasiya)
